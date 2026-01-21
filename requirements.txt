@@ -4,8 +4,8 @@ python-multipart
 
 torch
 torchvision
-
 facenet-pytorch
-numpy
+
+numpy==1.26.4
 scikit-learn
-pillow
+pillow==10.2.0
